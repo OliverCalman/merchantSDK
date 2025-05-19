@@ -1,0 +1,24 @@
+{
+  "originHash" : "0b19f31d14fd86d594f3e49f7e46b8e1e090a98f2787f212a39b1a8d55857bdb",
+  "pins" : [
+    {
+      "identity" : "primer-sdk-3ds-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/primer-io/primer-sdk-3ds-ios",
+      "state" : {
+        "revision" : "1d05801b0441878abdd956d509f1e055b382889a",
+        "version" : "2.4.3"
+      }
+    },
+    {
+      "identity" : "primer-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/primer-io/primer-sdk-ios.git",
+      "state" : {
+        "revision" : "8959721eaf8599786125217a149b82d75c1e88d4",
+        "version" : "2.37.0"
+      }
+    }
+  ],
+  "version" : 3
+}
